@@ -369,7 +369,7 @@ nav ul li a:hover {
 #portfolio img {
   display: block;
   width: 100%;
-  min-height: 300px;
+  max-height: 300px;
   cursor: pointer;
   opacity: 1;
   transition: opacity 2s ease;
@@ -524,7 +524,7 @@ nav ul li a:hover {
   margin: 10px 0;
   text-transform: uppercase;
 }
-.social-icons .fa {
+.social-icons .fab {
   color: #959595;
   margin: 0 5px;
 }
